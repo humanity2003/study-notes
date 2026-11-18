@@ -5,7 +5,7 @@ configuration:
   enableSPA: true
   enablePopovers: true
   locale: en-US
-  baseUrl: study-notes.pages.dev
+  baseUrl: study-notes-84b.pages.dev
   ignorePatterns:
     - private
     - templates
